@@ -1,6 +1,7 @@
 # Recipe Popularity Prediction
-
 This project provides a machine learning model to predict the popularity of recipes based on their characteristics. It includes a Flask web application for user interaction and a machine learning pipeline for training and evaluating the prediction model.
+
+![127 0 0 1_5000_predict](https://github.com/user-attachments/assets/90f11243-68ca-4ecb-b9d1-507e3521026c)
 
 ## Features
 - **Predict Recipe Popularity**: Enter recipe details to get a popularity score.
