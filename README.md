@@ -41,12 +41,10 @@ This project provides a machine learning model to predict the popularity of reci
 recipe-popularity-prediction/
 │── recipe-popularity-app.py        # Flask web application
 │── recipe-popularity-prediction.py # Machine learning pipeline
-│── recipes.csv                     # Dataset (replace with actual file)
+│── recipes_with_popularity.csv     # Dataset (replace with actual file)
 │── recipe_popularity_model.pkl     # Trained model (generated after training)
 │── templates/
 │   ├── index.html                   # HTML template for web app
-│── static/
-│   ├── images/                      # Visualizations
 │── README.md                        # Documentation
 ```
 
